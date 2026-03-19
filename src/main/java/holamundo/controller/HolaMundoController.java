@@ -10,7 +10,7 @@ public class HolaMundoController {
 
     public String holaMundo(){
 
-        return "holaaaaaaaaaaaaaaaaa";
+        return "holaaaaaaaaaaaaaaaaaaa2";
     }
 
 }
